@@ -1,0 +1,101 @@
+
+article{
+
+        display:flex;
+        align-items: center;
+}
+
+.image-section{
+
+        width:100vw;
+        height:250px;
+        display: inline-block;
+        margin-top: 20px;
+        margin-left:20px;
+}
+
+.main-image{
+
+        width:500px;
+        height:250px;
+        object-fit: cover;
+        border-radius: 250px;
+
+}
+
+
+
+.main-section{
+
+        width:300vw;
+        height:250px;
+        margin-top:20px;
+        padding-left:20px;
+        margin-left:10px;
+        
+}
+.top{
+
+
+    width:700px;
+    height:50px;
+    display:flex;
+    align-items: center;
+    gap:10px;
+    
+}
+
+.logo{
+
+        width:30px;
+        height:30px;
+
+        
+}
+
+.place{
+
+        width:100px;
+        color:black;
+        font-size:30px;
+}
+.link{
+
+    font-family: Arial;
+    color:gray;
+    margin-left:80px;
+}
+
+.heading{
+
+
+        width:200px;
+        height:50px;
+        font-family:Arial;
+
+}
+
+.date-from-to{
+
+        width:200px;
+        height:50px;
+        font-family:Arial;
+        font-size:15px;
+
+}
+
+
+.about{
+
+        width:400px;
+        height:50px;
+        font-size:20px;
+}
+
+hr{
+
+    background-color: #111;
+    height:1px;
+    border:none;
+    margin-top:20px;
+}
