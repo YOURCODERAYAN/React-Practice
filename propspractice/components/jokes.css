@@ -1,0 +1,18 @@
+.container{
+
+        border:solid;
+        border-width: 2px;
+        border-color: solid black;
+}
+
+
+.first{
+
+        padding:10px;
+}
+
+
+.second{
+
+        padding:10px;
+}
